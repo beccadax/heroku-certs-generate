@@ -14,5 +14,11 @@
   "keywords": [
     "heroku-plugin"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "heroku-cli-util": "^1.4.0",
+    "netrc": "*"
+  }
 }

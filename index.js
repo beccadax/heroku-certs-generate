@@ -1,0 +1,3 @@
+exports.topics = [];
+
+exports.commands = [];

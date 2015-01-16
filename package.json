@@ -1,0 +1,18 @@
+{
+  "name": "heroku-certs-generate",
+  "version": "0.0.1",
+  "description": "generate TLS keys and certificates",
+  "main": "index.js",
+  "author": "Brent Royal-Gordon @brentdax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brentdax/heroku-certs-generate"
+  },
+  "bugs": {
+    "url": "https://github.com/brentdax/heroku-certs-generate/issues"
+  },
+  "keywords": [
+    "heroku-plugin"
+  ],
+  "license": "MIT"
+}
